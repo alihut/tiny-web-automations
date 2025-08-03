@@ -10,7 +10,7 @@ Each script is meant to be run in the **browser console** (`F12 → Console`).
 ### 🔹 LinkedIn - Auto Withdraw Invitations
 Withdraws all pending connection requests one-by-one using the modal.
 
-- **File**: `linkedin/withdraw-invitations.js`
+- **File**: [`linkedin/withdraw-invitations.js`](linkedin/withdraw-invitations.js)
 - **How to use**:
   1. Go to [LinkedIn Sent Invitations](https://www.linkedin.com/mynetwork/invitation-manager/sent/)
   2. Open browser console
